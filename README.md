@@ -12,10 +12,10 @@
 <br />
 <div align="center">
 
-<h3 align="center">Digital Future's Scrabble Challenge</h3>
+<h3 align="center">Project Title</h3>
 
   <p align="center">
-    This was the third challenge as part of the Digital Futures Academy. This challenge was carried out before the start of the academy, so the task was to convert the JavaScript challenge into Java language, and improve it. The tests in this project were pre-written. 
+    Project Description 
     <br />
     <a href="link to repo"><strong>Explore the docs »</strong></a>
     <br />
@@ -63,7 +63,7 @@ Domain Models and Test
 <!-- ROADMAP -->
 ## Project Review and Roadmap
 
-- [] Add Changelog
+- [ ] Add Changelog
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
